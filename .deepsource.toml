@@ -1,5 +1,5 @@
 version = 1
 
 [[analyzers]]
-name = "javascript"
-enabled = true
+name = "kube-linter"
+type = "community"
